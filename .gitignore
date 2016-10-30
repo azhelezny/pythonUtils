@@ -91,6 +91,6 @@ ENV/
 
 # IDEA
 
-.idea/*
+/.idea/*
 *.iws
 /out/
