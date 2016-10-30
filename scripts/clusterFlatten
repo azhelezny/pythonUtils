@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd `pwd`
+
+[/env.absolute.path] [project.root.absolute.path]/main/flattener.py $@

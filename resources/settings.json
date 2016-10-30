@@ -1,0 +1,6 @@
+{
+  "pemFileParh": "/Users/azhelezny/keys/vsplice-dev.pem",
+  "spliceDirCloudera": "/opt/cloudera/parcels/SPLICEMACHINE",
+  "spliceDirMapr": "/opt/splice/default",
+  "spliceDirHorton": "/opt/splice/default"
+}
