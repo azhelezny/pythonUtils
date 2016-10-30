@@ -1,5 +1,5 @@
 {
-  "pemFileParh": "/Users/azhelezny/keys/vsplice-dev.pem",
+  "pemFileParh": "path-to-your.pem file",
   "spliceDirCloudera": "/opt/cloudera/parcels/SPLICEMACHINE",
   "spliceDirMapr": "/opt/splice/default",
   "spliceDirHorton": "/opt/splice/default"
